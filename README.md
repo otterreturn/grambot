@@ -1,5 +1,4 @@
-# grambot
-grambot a bot that connects instagram to discord
+
 
 
 # Grambot
@@ -29,4 +28,4 @@ Tags: social, fun, media
 
 website: http://seobetter.com/
 
-Support server invite: QJPwnnS
+Support server invite: https://discord.gg/QJPwnnS
