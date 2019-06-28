@@ -2,7 +2,7 @@
 
 
 # Grambot
-Grambot is here to help you get all the information about an Instagram profile straight from your Discord server. It  
+Grambot is here to help you get all the information about an Instagram profile straight from your Discord server.
 
 ## Features:
 - Display an Instagram profile's
